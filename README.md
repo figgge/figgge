@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-Currently studying at <a href="http://www.iths.se/">IT-Högskolan</a> where I'm undertaking my 2 year Java developer fullstack program.
+Currently studying at <a href="http://www.iths.se/">IT-Högskolan</a> where I'm undertaking a 2 year Java developer fullstack program.
 </p>
 
 <p align='center'>
