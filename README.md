@@ -30,7 +30,7 @@ Currently studying at <a href="http://www.iths.se/">IT-Högskolan</a> where I'm 
 - **WEB**
   - Javascript & Typescript, HTML & CSS, Vue
 - **DATABASE**
-  - MySQL, JDBC/JPA, MongoDB, SQLite
+  - MySQL, PostgreSQL,  JDBC/JPA, MongoDB, SQLite
 
 - **GIT**
   - Console commands, GitHub, Github Actions
