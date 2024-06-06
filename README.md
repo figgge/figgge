@@ -1,9 +1,15 @@
 <h1 align='center'>
-  Hello I'm Fredrik!
+  Hello, I'm Fredrik!
 </h1>
 
 <p align='center'>
-Currently studying at <a href="http://www.iths.se/">IT-Högskolan</a> where I'm undertaking a 2 year Java developer fullstack program.
+  I'm a Full Stack Developer currently working at <a href="http://www.bozzanova.se/">Bozzanova AB</a>.
+</p>
+<p align='center'>
+Previously studied at <a href="http://www.iths.se/">IT-Högskolan</a>, where I completed a 2-year Java developer full-stack program.
+</p>
+<p align='center'>
+  I am passionate about learning and growing in my programming career.
 </p>
 
 <p align='center'>
